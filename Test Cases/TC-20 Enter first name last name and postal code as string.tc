@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-20 Enter first name last name and postal code as string</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abf159dd-d611-4148-830e-b80f95949b68</testCaseGuid>
+</TestCaseEntity>

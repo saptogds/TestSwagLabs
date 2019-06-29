@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-21 Enter first name last name and postal code as integer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae2b4012-cf5b-4711-a715-cea8c1e80d7c</testCaseGuid>
+</TestCaseEntity>
